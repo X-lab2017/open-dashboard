@@ -1,4 +1,4 @@
-# open-screen
+# open-dashboard
 OpenDigger 开源生态基础数据分析大赛
 
 # description
